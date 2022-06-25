@@ -22,12 +22,40 @@
 # Registers:
 
 # File marks:
-'0  47  0  ~/lab6.py
-'1  1  0  ~/lab6.py
-'2  1  0  ~/lab5/server2.py
-'3  1  0  ~/lab5/lab5.py
+'0  1  0  ~/server6.py
+'1  47  0  ~/lab6.py
+'2  1  0  ~/lab6.py
+'3  1  0  ~/lab5/server2.py
+'4  1  0  ~/lab5/lab5.py
 
 # Jumplist (newest first):
+-'  1  0  ~/server6.py
+-'  47  0  ~/lab6.py
+-'  1  0  ~/lab6.py
+-'  1  0  ~/lab5/server2.py
+-'  1  0  ~/lab5/lab5.py
+-'  1  0  ~/lab5/lab5.py
+-'  1  0  ~/lab5/server2.py
+-'  1  0  ~/lab5/lab5.py
+-'  1  0  ~/lab5/lab5.py
+-'  1  0  ~/lab5/server2.py
+-'  1  0  ~/lab5/lab5.py
+-'  1  0  ~/lab5/lab5.py
+-'  1  0  ~/lab5/server2.py
+-'  1  0  ~/lab5/lab5.py
+-'  1  0  ~/lab5/lab5.py
+-'  1  0  ~/lab5/server2.py
+-'  1  0  ~/lab5/lab5.py
+-'  1  0  ~/lab5/lab5.py
+-'  1  0  ~/lab5/server2.py
+-'  1  0  ~/lab5/lab5.py
+-'  1  0  ~/lab5/lab5.py
+-'  1  0  ~/lab5/server2.py
+-'  1  0  ~/lab5/lab5.py
+-'  1  0  ~/lab5/lab5.py
+-'  1  0  ~/lab5/server2.py
+-'  1  0  ~/lab5/lab5.py
+-'  1  0  ~/lab5/lab5.py
 -'  47  0  ~/lab6.py
 -'  1  0  ~/lab6.py
 -'  1  0  ~/lab5/server2.py
@@ -56,6 +84,9 @@
 -'  1  0  ~/lab5/lab5.py
 
 # History of marks within files (newest to oldest):
+
+> ~/server6.py
+	"	1	0
 
 > ~/lab6.py
 	"	47	0
